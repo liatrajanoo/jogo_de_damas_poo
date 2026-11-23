@@ -18,7 +18,4 @@ public class PersistenciaArquivo implements PersistenciaPartida {
 	
 
 }
-
-
-olaaaaascdsjfksacsacm
-cascsac
+teste pra ver se funciona vamos ver
